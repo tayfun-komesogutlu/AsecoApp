@@ -1,0 +1,10 @@
+c:\users\tayfun\source\repos\Asseco_Winform\Asseco_Winform\bin\Debug\Asseco_Winform.exe.config
+c:\users\tayfun\source\repos\Asseco_Winform\Asseco_Winform\bin\Debug\Asseco_Winform.exe
+c:\users\tayfun\source\repos\Asseco_Winform\Asseco_Winform\bin\Debug\Asseco_Winform.pdb
+c:\users\tayfun\source\repos\Asseco_Winform\Asseco_Winform\obj\Debug\Asseco_Winform.csprojAssemblyReference.cache
+c:\users\tayfun\source\repos\Asseco_Winform\Asseco_Winform\obj\Debug\Asseco_Winform.AssecoUI.resources
+c:\users\tayfun\source\repos\Asseco_Winform\Asseco_Winform\obj\Debug\Asseco_Winform.Properties.Resources.resources
+c:\users\tayfun\source\repos\Asseco_Winform\Asseco_Winform\obj\Debug\Asseco_Winform.csproj.GenerateResource.cache
+c:\users\tayfun\source\repos\Asseco_Winform\Asseco_Winform\obj\Debug\Asseco_Winform.csproj.CoreCompileInputs.cache
+c:\users\tayfun\source\repos\Asseco_Winform\Asseco_Winform\obj\Debug\Asseco_Winform.exe
+c:\users\tayfun\source\repos\Asseco_Winform\Asseco_Winform\obj\Debug\Asseco_Winform.pdb
